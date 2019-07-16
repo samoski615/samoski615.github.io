@@ -1,0 +1,18 @@
+body{
+	background-color: #9bc4e2
+}
+
+
+
+th{
+	padding: 100px;
+	margin: 100px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: black;
+	background-color: #0077be;
+	font-size: 50px;
+	font: "Georgia";
+	font-style: italic;
+}
+
